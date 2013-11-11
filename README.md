@@ -1,4 +1,0 @@
-rfduino
-=======
-
-RFduino for OpenSCAD
